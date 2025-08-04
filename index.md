@@ -1,2 +1,2 @@
-# hi hello
-## you are smart
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
